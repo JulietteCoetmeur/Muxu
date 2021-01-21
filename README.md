@@ -36,7 +36,7 @@ We made this project from scratch, and we followed the SCRUM model (agile method
 [![product-page-muxu.png](https://i.postimg.cc/J7TMfgNg/product-page-muxu.png)](https://postimg.cc/Hj7q56P4)
 
 * User account with wishlist feature
-* Purchase tunnel (basket, paypal)
+* Purchase tunnel (basket, stripe)
 
 [![admin-muxu.png](https://i.postimg.cc/dt5MkTHx/admin-muxu.png)](https://postimg.cc/LngQGhMt)
 
