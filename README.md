@@ -35,7 +35,10 @@ We made this project from scratch, and we followed the SCRUM model (agile method
 
 [![product-page-muxu.png](https://i.postimg.cc/J7TMfgNg/product-page-muxu.png)](https://postimg.cc/Hj7q56P4)
 
-* admin area where you can add new product, desactivate them, choose an artist to 
+* User account with wishlist feature
+* Purchase tunnel (basket, paypal)
+
+[![admin-muxu.png](https://i.postimg.cc/dt5MkTHx/admin-muxu.png)](https://postimg.cc/LngQGhMt)
+
+* Admin area where you can add new product, desactivate them, choose an artist to 
 put on the home page, add/update some categories for your products. Admin user also have access to a dashboard to follow stocks, sales, products most liked.
-* user account with wishlist feature
-* purchase tunnel (basket, paypal)
